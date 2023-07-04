@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Isabelle Rodrigues
 - 📚 I’m interested in learning new things, reading whenever I have free time and watching movies and series
-- 💻 I’m currently learning how to do things with JS and HTML/CSS
+- 💻 I’m currently learning how to do things with ReactJS
 - ✉️ You can reach me by sending an email to isabeller29@hotmail.com
